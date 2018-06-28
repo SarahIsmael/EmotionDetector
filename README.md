@@ -1,4 +1,7 @@
-dataset :Taiwanese Facial Expression Image Database (TFEID) 
-methods :DNN,SVM and KNN
-preprocessing :Haar Cascade Classfier
-using cross validation
+Dataset :Taiwanese Facial Expression Image Database (TFEID) 
+
+Methods :DNN,SVM and KNN
+
+Preprocessing :Haar Cascade Classfier
+
+Evaluation: cross validation
